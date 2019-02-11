@@ -6,7 +6,7 @@
 //  Copyright © 2018 Org. All rights reserved.
 //
 
-//import Alamofire
+import Alamofire
 import UIKit
 
 class ViewController: UIViewController {
